@@ -1,0 +1,169 @@
+
+
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.logo {
+    width: 45px;
+}
+
+.logo-part span{
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.header-part{
+   
+    position: fixed;
+    width: 100%;
+    background-color: rgba(12, 12, 1, 0.479);
+}
+
+nav ul li a{
+    color: azure!important;
+}
+
+.dropdown-menu {
+    
+    background-color: rgba(12, 12, 1, 0.329)!important;
+    margin-top: 14px!important;
+    
+   
+}
+
+
+.button1 {
+    margin-top: 13px;
+    text-align: end;
+}
+
+.button1 button {
+    color: #2c42df;
+    border: 1px solid #2c42df;
+    font-weight: bold;
+    padding: 5px 17px;
+    border-radius: 6px;
+}
+
+
+
+.menu-part{
+    margin-left: 147px;
+    
+}
+
+#hero-part{
+    background: url(./Photo/mbr-10.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0px;
+    
+}
+
+.hero-contant1 p {
+    color: white;
+    font-size: 25px;
+}
+
+.hero-contant2 h1 {
+    color: white;
+    margin-bottom: 73px;
+}
+
+.email {
+    padding: 15px 15px;
+    border: none;
+    
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-color: white;
+}
+
+
+.get-app {
+    padding: 15px 80px;
+    border: none;
+    background-color: #22f908;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.activity-contant {
+    padding-top: 130px;
+    
+}
+
+.activity-contant .lead {
+    padding-top: 37px;
+}
+
+.header-point-img img {
+    height: 260px;
+}
+
+.footer-contant{
+    padding: 0px 100px;
+}
+
+.button .btn-primary {
+    color: #fff;
+    background-color: #05ff58;
+    border-color: #05ff58;
+}
+
+.dropdown-item:hover {
+    color: #16181b;
+    background-color: #000000;
+}
+
+.get-app:hover {
+    color: #0c0101;
+    background-color: white;
+    transition: 1s;
+    box-shadow: 1px 1px 10px black;
+}
+
+.header-point-img img:hover {
+    
+    transform: scale(1.2);
+    transition: 1s;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 10px;
+}
+
+.activity-img img:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 10px;
+}
+
+.img-gallery img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 10px;
+}
+
+.footer-img img:hover{
+    transform: scale(1.2);
+    transition: 1s;
+    box-shadow: 1px 1px 15px black;
+    border-radius: 10px;
+
+}
+
+.email:hover{
+    color: #0c0101;
+    background-color: white;
+    transition: 1s;
+    box-shadow: 1px 1px 10px black;
+}
